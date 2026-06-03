@@ -24,30 +24,30 @@
 
 ## ◈ SYSTEM.PROFILE
 
-```python
-class MuditMishra:
-    def __init__(self):
-        self.name         = "Mudit Mishra"
-        self.role         = ["AI Developer", "Cloud Enthusiast"]
-        self.location     = "India 🇮🇳"
-        self.email        = "muditmishra100703@gmail.com"
-        self.linkedin     = "linkedin.com/in/mudit-mishra-mm10"
-
-    def current_focus(self):
-        return [
-            "🤖 Generative AI & LLM Applications",
-            "☁️  AWS Solutions Architecture",
-            "🌐 Full Stack AI-powered Web Apps",
-        ]
-
-    def interests(self):
-        return [
-            "AI/ML", "Game Dev", "AR/VR",
-            "3D Animation", "Blockchain", "Cloud"
-        ]
-
-    def fun_fact(self):
-        return "Built a Zombie FPS in UE5 & a McLaren car in Blender 🎮🚗"
+```
+┌────────────────────────────────────────────────────────┐
+│                                                        │
+│   ██╗  ██╗███████╗██╗     ██╗      ██████╗             │
+│   ██║  ██║██╔════╝██║     ██║     ██╔═══██╗            │
+│   ███████║█████╗  ██║     ██║     ██║   ██║            │
+│   ██╔══██║██╔══╝  ██║     ██║     ██║   ██║            │
+│   ██║  ██║███████╗███████╗███████╗╚██████╔╝            │
+│   ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝             │
+│                                                        │
+│   NAME       →  Mudit Mishra                           │
+│   ROLE       →  AI Developer · Cloud · Game Developer  │
+│   LOCATION   →  India 🇮🇳                               │
+│   STATUS     →  Building something cool 🚀            │
+│                                                        │
+│   FOCUS      →  Generative AI & LLM Apps               │
+│              →  AWS Solutions Architecture             │
+│              →  Full Stack AI-powered Web Apps         │
+│                                                        │
+│   INTERESTS  →  AI/ML · Game Dev · AR/VR               │
+│              →  3D Animation · Blockchain · Cloud      │
+│                                                        │        │
+│                                                        │
+└────────────────────────────────────────────────────────┘
 ```
 
 ---
